@@ -1,6 +1,6 @@
 
 <h3 align="center">
-	Trapezoid-Shaped Carousel - React Native
+	# Trapezoid-Shaped Carousel - React Native
 </h3>
 
 
