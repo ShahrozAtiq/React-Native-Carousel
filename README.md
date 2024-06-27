@@ -1,0 +1,1 @@
+This React Native project features a unique trapezoid-shaped carousel, an animated tab bar, and an animated emoji selector. These components are crafted from scratch to ensure smooth animations and responsive design. Easily integrated into any project, they enhance user experience with their visually appealing and interactive elements.
