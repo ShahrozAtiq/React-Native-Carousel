@@ -1,7 +1,7 @@
 
-<h3 align="center">
-	# Trapezoid-Shaped Carousel - React Native
-</h3>
+<h1 align="center">
+	Trapezoid-Shaped Carousel - React Native
+</h1>
 
 
 <p align="center">
